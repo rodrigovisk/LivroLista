@@ -1,0 +1,14 @@
+E:\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+E:\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\ADS471\ED2\List\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\ADS471\ED2\List\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+E:\ADS471\ED2\List\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+E:\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\facul\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+F:\facul\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\facul\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+F:\facul\ADS471\ED2\List\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\facul\ADS471\ED2\List\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+F:\facul\ADS471\ED2\List\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+F:\facul\ADS471\ED2\List\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
